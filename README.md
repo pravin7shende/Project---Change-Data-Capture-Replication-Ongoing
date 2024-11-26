@@ -3,10 +3,14 @@
 
 # Steps performed in this project:
 
-Creating RDS MySQL Instance
+Creating RDS MySQL Instance 
+
 Creating S3 Bucket
+
 Creating DMS Source Endpoint
+
 Creating DMS Destination Endpoint
+
 Creating DMS Instance
 MySQL WorkBench
 Connecting with RDS and Dumping Data
